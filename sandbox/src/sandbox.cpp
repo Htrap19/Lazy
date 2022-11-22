@@ -20,5 +20,6 @@ int main()
         print(list.size() << " -> " << data);
 
     print(list.size());
+    std::cin.get();
     return 0;
 }
