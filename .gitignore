@@ -10,3 +10,5 @@ cmake-build-release
 *.vcxproj.user
 */obj/
 */bin/
+
+CMakeLists.txt.user

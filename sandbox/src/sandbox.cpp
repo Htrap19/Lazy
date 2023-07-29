@@ -3,6 +3,7 @@
 //
 
 #include <iostream>
+#include <cstdint>
 #include <lazy/list.h>
 
 #define print(...) std::cout << "[" << __FUNCTION__ << "]: " << __VA_ARGS__ << std::endl
