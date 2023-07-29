@@ -1,2 +1,2 @@
-# lazy
-Combining data-structures with C++20 Coroutines
+# Lazy
+Data Structures combined with C++20 Coroutines
